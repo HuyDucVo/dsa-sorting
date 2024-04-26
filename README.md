@@ -21,7 +21,7 @@ Common Sorting Algorithms
 
 ## License
 
-Copyright [2021] [Huy Duc Vo]
+Copyright [2024] [Huy Duc Vo]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
